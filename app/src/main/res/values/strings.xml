@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstTest</string>
+
+    <!-- Home Page -->
+    <string name="home_page_title">Mon app test !</string>
+    <string name="home_page_last_car">Dernière voiture arrivée !</string>
+    <string name="item_car_name">Default Name</string>
+    <string name="item_car_description">Default description car !</string>
+</resources>
